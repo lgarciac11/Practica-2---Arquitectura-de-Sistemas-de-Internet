@@ -7,7 +7,7 @@ import {
 
 type User = {
     dni: string;
-    nombre: string;
+    nombre: string;  
     apellidos: string;
     telefono: string;
     email: string;
