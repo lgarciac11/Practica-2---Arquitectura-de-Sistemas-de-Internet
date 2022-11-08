@@ -19,4 +19,4 @@ POST http://localhost:7777/users/2/transactions
 {
     "id_receiver": "3" ,
     "amount": 200
-}
+}    
